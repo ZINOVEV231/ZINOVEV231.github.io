@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Магазин мебели Futniture 73</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/aos.css">
+
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+  </head>
+
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+    
+    <div class="site-wrap" id="home-section">
+
+      <div class="site-mobile-menu site-navbar-target">
+        <div class="site-mobile-menu-header">
+          <div class="site-mobile-menu-close mt-3">
+            <span class="icon-close2 js-menu-toggle"></span>
+          </div>
+        </div>
+        <div class="site-mobile-menu-body"></div>
+      </div>
+
+
+
+      <header class="site-navbar site-navbar-target bg-white" role="banner">
+
+        <div class="container">
+          <div class="row align-items-center position-relative">
+
+            <div class="col-lg-4">
+              <nav class="site-navigation text-right ml-auto " role="navigation">
+                <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
+                 <li class="active"><a href="services.html" class="nav-link">Главная</a>
+				 <li><a href="contact.php" class="nav-link">Контакты</a></li>
+                  <li><a href="about.php" class="nav-link">О компании</a></li>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+            <div class="col-lg-4 text-center">
+              <div class="site-logo">
+                <a href="services.html">Furniture 73</a>
+              </div>
+
+
+              <div class="ml-auto toggle-button d-inline-block d-lg-none"><a href="#" class="site-menu-toggle py-5 js-menu-toggle text-white"><span class="icon-menu h3 text-primary"></span></a></div>
+            </div>
+         
+            
+
+          </div>
+        </div>
+
+      </header>
+
+
+
+
+    <div class="ftco-blocks-cover-1">
+        <div class="ftco-cover-1" style="background-image: url('images/hero_1.jpg');">
+            <div class="container">
+              <div class="row align-items-center justify-content-center">
+                <div class="col-lg-12 text-center">
+                   <div class="box-92819">
+                    <h1 class="text-uppercase text-black mb-3">Добро пожаловать</h1>
+                    <p class="mb-0">На нашем сайте вы найдете много качественной мебели на любой вкус</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+
+    
+    <div class="site-section">
+      <div class="container">
+        <div class="row mb-5 align-items-center">
+          <div class="col-md-7">
+            <h2 class="heading-39291 mb-0">Наши товары</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 mb-4 col-lg-4" data-aos="fade-up" data-aos-delay="">
+            <div class="service-29193 text-center">
+              <span class="img-wrap mb-5">
+                <img src="images/d.jpg" alt="Image" class="img-fluid">
+              </span>
+              <h3 class="mb-4"><a href="#">ДИВАН СИГМА</a></h3>
+              <p>45000 руб</p>
+            </div>
+          </div>
+          <div class="col-md-6 mb-4 col-lg-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-29193 text-center">
+              <span class="img-wrap mb-5">
+                <img src="images/k.jpg" alt="Image" class="img-fluid">
+              </span>
+              <h3 class="mb-4"><a href="#">Кровать Крон</a></h3>
+              <p>87990 руб</p>
+            </div>
+          </div>
+          <div class="col-md-6 mb-4 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-29193 text-center">
+              <span class="img-wrap mb-5">
+                <img src="images/l.jpg" alt="Image" class="img-fluid">
+              </span>
+              <h3 class="mb-4"><a href="#">Лампа Ли</a></h3>
+              <p>5400 руб</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-4 col-lg-4" data-aos="fade-up" data-aos-delay="">
+            <div class="service-29193 text-center">
+              <span class="img-wrap mb-5">
+                <img src="images/st.jpg" alt="Image" class="img-fluid">
+              </span>
+              <h3 class="mb-4"><a href="#">Стул Вест</a></h3>
+              <p>8700 руб</p>
+            </div>
+          </div>
+          <div class="col-md-6 mb-4 col-lg-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-29193 text-center">
+              <span class="img-wrap mb-5">
+                <img src="images/s.png" alt="Image" class="img-fluid">
+              </span>
+              <h3 class="mb-4"><a href="#">Стол Денвер</a></h3>
+              <p>35000 руб</p>
+            </div>
+          </div>
+          <div class="col-md-6 mb-4 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-29193 text-center">
+              <span class="img-wrap mb-5">
+                <img src="images/с.jpg" alt="Image" class="img-fluid">
+              </span>
+              <h3 class="mb-4"><a href="#">Шкаф Вин</a></h3>
+              <p>90000 руб</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+   
+    
+    
+
+    
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="row">
+              <div class="col-md-7">
+                <h2 class="footer-heading mb-4">О компании</h2>
+                <p>Наша компания на рынке с 2010 года, имеет огромное количество клиентов </p>
+
+              </div>
+              <div class="col-md-4 ml-auto">
+                <h2 class="footer-heading mb-4">Правообладателям</h2>
+                <ul class="list-unstyled">
+                  <li><a href="#">Контакты</a></li>
+                  <li><a href="#">Реклама</a></li>
+                  <li><a href="#">Лицензионное соглашение</a></li>
+                 
+                </ul>
+              </div>
+
+            </div>
+          </div>
+          <div class="col-md-4 ml-auto">
+
+            <div class="mb-5">
+              <h2 class="footer-heading mb-4">Подписаться</h2>
+              <form action="#" method="post" class="footer-suscribe-form">
+                <div class="input-group mb-3">
+                  <input type="text" class="form-control rounded-0 border-secondary text-white bg-transparent" placeholder=" Email" aria-label="Enter Email" aria-describedby="button-addon2">
+                  <div class="input-group-append">
+                    <button class="btn btn-primary text-white" type="button" id="button-addon2">Подписаться</button>
+                  </div>
+                </div>
+            </div>
+
+
+            </form>
+          </div>
+        </div>
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <div class="pt-5">
+              <!-- Link back to Free-Template.co can't be removed. Template is licensed under CC BY 3.0. -->
+              <p class="copyright"><small>&copy;
+                  <script>document.write(new Date().getFullYear());</script> Furniture73.Все права защищены
+                   </small></p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </footer>
+
+    </div>
+
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.sticky.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.animateNumber.min.js"></script>
+    <script src="js/jquery.fancybox.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/aos.js"></script>
+
+    <script src="js/main.js"></script>
+
+    
+
+  </body>
+
+</html>
